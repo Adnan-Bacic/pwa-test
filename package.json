@@ -1,0 +1,10 @@
+{
+  "name": "pwa-test",
+  "version": "1.0.0",
+  "description": "pwa-test",
+  "scripts": {
+    "start": "npx serve src",
+    "generateAssets": "npx pwa-asset-generator src/logo.png src/icons"
+  },
+  "license": "MIT"
+}

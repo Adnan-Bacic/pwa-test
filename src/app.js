@@ -1,4 +1,4 @@
-//npx pwa-asset-generator logo.png icons
+//https://www.youtube.com/watch?v=E8BeSSdIUW4
 
 window.addEventListener('load', async () => {
   try {

@@ -1,4 +1,6 @@
+//name to save under Application->Cache->Cache Storage
 const cacheName = 'pwa-cache'
+//what to save
 const staticAssets = [
     './',
     './index.html',
