@@ -21,5 +21,22 @@
     "theme_color": "#000",
     "background_color": "#fff",
     "display": "standalone",
-    "orientation": "portrait"
+    "orientation": "portrait",
+    "screenshots": [
+      {
+        "src":"https://www.schemecolor.com/wallpaper?i=4534&mobile",
+        "sizes":"320x640",
+        "type":"image/png"
+      },
+      {
+        "src":"https://www.schemecolor.com/wallpaper?i=30886&mobile",
+        "sizes":"320x640",
+        "type":"image/png"
+      },
+      {
+        "src":"https://www.schemecolor.com/wallpaper?i=58498&mobile",
+        "sizes":"320x640",
+        "type":"image/png"
+      }
+  ]
 }
