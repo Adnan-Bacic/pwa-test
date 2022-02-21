@@ -1,42 +1,54 @@
 {
-    "lang": "en-us",
-    "name": "PWA test",
-    "short_name": "PWA",
-    "description": "A sample PWA for testing purposes",
-    "start_url": "./",
-    "icons": [
-      {
-        "src": "icons/manifest-icon-192.maskable.png",
-        "sizes": "192x192",
-        "type": "image/png",
-        "purpose": "maskable any"
-      },
-      {
-        "src": "icons/manifest-icon-512.maskable.png",
-        "sizes": "512x512",
-        "type": "image/png",
-        "purpose": "maskable any"
-      }
-    ],
-    "theme_color": "#000",
-    "background_color": "#fff",
-    "display": "standalone",
-    "orientation": "portrait",
-    "screenshots": [
-      {
-        "src":"https://www.schemecolor.com/wallpaper?i=4534&mobile",
-        "sizes":"320x640",
-        "type":"image/png"
-      },
-      {
-        "src":"https://www.schemecolor.com/wallpaper?i=30886&mobile",
-        "sizes":"320x640",
-        "type":"image/png"
-      },
-      {
-        "src":"https://www.schemecolor.com/wallpaper?i=58498&mobile",
-        "sizes":"320x640",
-        "type":"image/png"
-      }
+  "lang": "en-us",
+  "name": "PWA name",
+  "short_name": "PWA short_name",
+  "description": "A sample PWA for testing purposes",
+  "start_url": "./",
+  "icons": [
+    {
+      "src": "icons/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#000",
+  "background_color": "#fff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "screenshots": [
+    {
+      "src": "https://www.schemecolor.com/wallpaper?i=4534&mobile",
+      "sizes": "320x640",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.schemecolor.com/wallpaper?i=30886&mobile",
+      "sizes": "320x640",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.schemecolor.com/wallpaper?i=58498&mobile",
+      "sizes": "320x640",
+      "type": "image/png"
+    }
   ]
 }

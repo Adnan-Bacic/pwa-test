@@ -4,7 +4,7 @@
   "description": "pwa-test",
   "scripts": {
     "start": "npx serve src",
-    "generateAssets": "npx pwa-asset-generator src/logo.png src/icons"
+    "generateAssets": "npx pwa-asset-generator src/logo.png src/icons --scape false --manifest ./src/manifest.json --index ./src/index.html"
   },
   "license": "MIT"
 }
