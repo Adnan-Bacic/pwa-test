@@ -30,8 +30,8 @@
       "purpose": "maskable"
     }
   ],
-  "theme_color": "#000",
-  "background_color": "#fff",
+  "theme_color": "#ff0000",
+  "background_color": "#0800ff",
   "display": "standalone",
   "orientation": "portrait",
   "screenshots": [
